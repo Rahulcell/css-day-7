@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0px 300px;
+    
+}
+td{
+    width:100px;
+    height:100px;
+    padding: 10px;
+
+}
+img{
+    width:80px;
+    height:80px; 
+}
+
+table{
+    border:50px solid rgb(170, 116, 8);
+    
+}
+.black{
+    background-color: olivedrab;
+}
+.white{
+    background-color: rgb(216, 241, 164);
+}
