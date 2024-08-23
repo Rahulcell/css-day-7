@@ -17,12 +17,55 @@ img{
 }
 
 table{
-    border:50px solid rgb(170, 116, 8);
-    
+    border:50px solid rgb(170, 116, 8);    
 }
-.black{
+
+.a1>td:nth-child(odd){
     background-color: olivedrab;
 }
-.white{
+.a2>td:nth-child(even){
+    background-color: olivedrab;
+}
+.a3>td:nth-child(odd){
+    background-color: olivedrab;
+}
+.a4>td:nth-child(even){
+    background-color: olivedrab;
+}
+.a5>td:nth-child(odd){
+    background-color: olivedrab;
+}
+.a6>td:nth-child(even){
+    background-color: olivedrab;
+}
+.a7>td:nth-child(odd){
+    background-color: olivedrab;
+}
+.a8>td:nth-child(even){
+    background-color: olivedrab;
+}
+
+.a1>td:nth-child(even){
+    background-color: rgb(216, 241, 164);
+}
+.a2>td:nth-child(odd){
+    background-color: rgb(216, 241, 164);
+}
+.a3>td:nth-child(even){
+    background-color: rgb(216, 241, 164);
+}
+.a4>td:nth-child(odd){
+    background-color: rgb(216, 241, 164);
+}
+.a5>td:nth-child(even){
+    background-color: rgb(216, 241, 164);
+}
+.a6>td:nth-child(odd){
+    background-color: rgb(216, 241, 164);
+}
+.a7>td:nth-child(even){
+    background-color: rgb(216, 241, 164);
+}
+.a8>td:nth-child(odd){
     background-color: rgb(216, 241, 164);
 }
